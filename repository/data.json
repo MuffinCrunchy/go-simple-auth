@@ -1,0 +1,10 @@
+{
+  "customers": [
+    {
+      "id": "1",
+      "name": "Saka",
+      "merchant_id": "X01",
+      "logged_in": false
+    }
+  ]
+}
